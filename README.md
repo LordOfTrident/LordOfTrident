@@ -1,5 +1,5 @@
 <h1 align="center">Hi There</h1>
-I am LordOfTrident, i mainly code in C++ and Javascript, but i also know Lua and Pascal.
+<p align="center">I am LordOfTrident, i mainly code in C++ and Javascript, but i also know Lua and Pascal.</h1>
 <h2 align="center">Stats</h1>
 <p align="center">
   <a href="#">
