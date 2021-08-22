@@ -2,7 +2,6 @@
 Hi, Im LordOfTrident
 - I mainly program in C++
 - Im currently learning C++ and x86 Assembly
-- I also know Lua and Pascal
 
 ### Languages i program in:
 - C++
