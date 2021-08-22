@@ -1,5 +1,6 @@
 # Hi There
 I am LordOfTrident, i mainly code in C++ and Javascript, but i also know Lua and Pascal.
+
 ---
 <p align="center">
   <a href="#">
