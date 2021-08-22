@@ -1,7 +1,16 @@
 # Hi There 👋
-I am LordOfTrident, i mainly code in C++ and Javascript, but i also know Lua and Pascal.
+Hi, Im LordOfTrident
+- I mainly program in C++
+- Im currently learning C++ and x86 Assembly
+- I also know Lua and Pascal
 
-## Stats
+### Languages i program in:
+- C++
+- Javascript
+- Lua
+- Pascal
+
+### Stats
 ---
 <p align="center">
   <a href="#">
@@ -13,6 +22,4 @@ I am LordOfTrident, i mainly code in C++ and Javascript, but i also know Lua and
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordsTrident&theme=nord&border_radius=10&layout=compact" />
   </a>
 </p>
-
 ---
-
