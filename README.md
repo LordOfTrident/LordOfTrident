@@ -12,5 +12,5 @@ I am LordOfTrident, i mainly code in C++ and Javascript, but i also know Lua and
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordsTrident&theme=nord&border_radius=10&layout=compact" />
   </a>
 </p>
-
+---
 
