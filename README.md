@@ -1,4 +1,4 @@
-#Hi There
+# Hi There
 I am LordOfTrident, i mainly code in C++ and Javascript, but i also know Lua and Pascal.
 <h1 align="center">Stats</h1>
 <p align="center">
