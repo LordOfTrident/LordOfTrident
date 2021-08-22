@@ -1,13 +1,8 @@
 # Hi There 👋
 Hi, Im LordOfTrident
-- I mainly program in C++
+- I mainly program in C++ and Javascript
 - Im currently learning C++ and x86 Assembly
-
-### Languages i program in:
-- C++
-- Javascript
-- Lua
-- Pascal
+- I also know Lua and Pascal
 
 ### Stats
 ---
