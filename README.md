@@ -4,7 +4,7 @@ Hi, Im LordOfTrident
 - Im currently learning C++ and x86 Assembly
 - I also know Lua and Pascal
 
-# Github Stats
+## Github Stats
 <p align="center">
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LordsTrident&show_icons=true&theme=nord&border_radius=10" />
