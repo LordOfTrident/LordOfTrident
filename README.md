@@ -16,8 +16,10 @@ Hi, Im LordOfTrident
 
 # Extra Pins
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/LordsTrident/trident-editor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordsTrident&theme=nord&border_radius=10&show_owner=true&repo=trident-editor"/>
+  </a>
+  <a href="https://github.com/LordsTrident/pas-term-game">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordsTrident&theme=nord&border_radius=10&show_owner=true&repo=pas-term-game"/>
   </a>
 </p>
