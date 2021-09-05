@@ -6,10 +6,10 @@ Hi, Im LordOfTrident
 
 # Github Stats
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LordsTrident&show_icons=true&theme=nord&border_radius=10"/>
   </a>
-  <a href="#">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordsTrident&theme=nord&border_radius=10&layout=compact"/>
   </a>
 </p>
