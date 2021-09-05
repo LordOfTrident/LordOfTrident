@@ -13,6 +13,6 @@ Hi, Im LordOfTrident
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordsTrident&theme=nord&border_radius=10&layout=compact" />
   </a>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordsTrident&theme=nord&border_radius=10&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordsTrident&theme=nord&border_radius=10&show_owner=true&repo=trident-editor" />
   </a>
 </p>
