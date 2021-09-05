@@ -14,7 +14,7 @@ Hi, Im LordOfTrident
   </a>
 </p>
 
-# Projects
+# Extra Pins
 <p align="center">
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordsTrident&theme=nord&border_radius=10&show_owner=true&repo=trident-editor" />
