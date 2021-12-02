@@ -1,6 +1,7 @@
 <p align="center">
 	<img width="100%" src="assets/deco.png"/>
 </p>
+
 # Hi There 👋
 Hi, Im LordOfTrident
 - I mainly program in C++ and Javascript
