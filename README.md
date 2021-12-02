@@ -21,10 +21,10 @@ Hi, im LordOfTrident
 # Extra Pins
 <p align="center">
   <a href="https://github.com/LordOfTrident/ltree">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=10&show_owner=true&repo=pas-term-game"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=10&show_owner=true&repo=ltree"/>
   </a>
   <a href="https://github.com/LordOfTrident/lysfetch">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=10&show_owner=true&repo=pas-term-game"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=10&show_owner=true&repo=lysfetch"/>
   </a>
   <a href="https://github.com/LordOfTrident/snash">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=10&show_owner=true&repo=snash"/>
