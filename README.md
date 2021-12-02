@@ -3,10 +3,10 @@
 </p>
 
 # Hi There 👋
-Hi, Im LordOfTrident
-- I mainly program in C++ and Javascript
+Hi, im LordOfTrident
+- I mainly program in C and C++
 - Im currently learning C++ and x86 Assembly
-- I also know Lua and Pascal
+- I also know Lua, Javascript and Pascal
 
 # Github Stats
 <p align="center">
@@ -20,6 +20,12 @@ Hi, Im LordOfTrident
 
 # Extra Pins
 <p align="center">
+  <a href="https://github.com/LordOfTrident/ltree">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=10&show_owner=true&repo=pas-term-game"/>
+  </a>
+  <a href="https://github.com/LordOfTrident/lysfetch">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=10&show_owner=true&repo=pas-term-game"/>
+  </a>
   <a href="https://github.com/LordOfTrident/snash">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=10&show_owner=true&repo=snash"/>
   </a>
