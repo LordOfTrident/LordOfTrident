@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
 	<img width="100%" src="assets/deco.png"/>
-</p>
+</p>-->
 
 # Hi There 👋
 Hi, im LordOfTrident
