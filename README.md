@@ -20,6 +20,9 @@ Hi, im LordOfTrident
 
 # Extra Pins
 <p align="center">
+  <a href="https://github.com/LordOfTrident/tcore">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=tcore&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
+  </a>
   <a href="https://github.com/LordOfTrident/ltree">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=ltree&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
   </a>
