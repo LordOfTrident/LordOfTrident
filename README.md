@@ -5,8 +5,8 @@
 # Hi There 👋
 Hi, im LordOfTrident
 - I mainly program in C and C++
-- Im currently learning C++ and x86 Assembly
-- I also know Lua, Javascript and Pascal
+- Im currently planning to learn Go/Rust 
+- I also know Lua, Pascal and a little of Javascript
 
 # Github Stats
 <p align="center">
