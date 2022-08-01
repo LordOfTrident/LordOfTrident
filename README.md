@@ -2,13 +2,13 @@
 	<img width="100%" src="assets/deco.png"/>
 </p>-->
 
-## Hi There 👋
+# Hi There 👋
 Hi, im LordOfTrident
 - I mainly program in C and C++
 - Im currently planning to learn Go/Rust 
 - I also know Lua, Pascal and a little of Javascript
 
-#### Github Stats
+## Github Stats
 <p align="center">
   <a href="#">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=LordOfTrident&show_icons=true&theme=nord&border_radius=10&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
@@ -18,7 +18,7 @@ Hi, im LordOfTrident
   </a>
 </p>
 
-#### Extra Pins
+## Extra Pins
 <p align="center">
   <a href="https://github.com/LordOfTrident/temple">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=temple&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
