@@ -35,8 +35,8 @@ Hi, im LordOfTrident
   <a href="https://github.com/LordOfTrident/pas-wpm">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=pas-wpm&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
   </a>
-  <a href="https://github.com/LordOfTrident/8pong">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=8pong&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
+  <a href="https://github.com/LordOfTrident/your-factory">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=your-factory&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
   </a>
   <a href="https://github.com/LordOfTrident/amaretto">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=amaretto&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
