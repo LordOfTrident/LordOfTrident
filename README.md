@@ -5,7 +5,7 @@
 # Hi There 👋
 Hi, im LordOfTrident
 - I mainly program in C and C++
-- Im currently planning to learn Go/Rust 
+- Im currently learning Go and planning to learn Rust
 - I also know Lua, Pascal and a little of Javascript
 
 ## Github Stats
