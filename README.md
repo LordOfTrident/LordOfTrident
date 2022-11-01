@@ -1,8 +1,4 @@
-<style>
-img {
-    image-rendering: pixelated;
-}
-</style>
+
 <!--<p align="center">
 	<img width="100%" src="assets/deco.png"/>
 </p>-->
