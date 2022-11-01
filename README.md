@@ -3,7 +3,7 @@
 	<img width="100%" src="assets/deco.png"/>
 </p>-->
 <p align="center">
-	<img width="100%" src="assets/thumbnail.png"/>
+	<img style="image-rendering:pixelated" width="100%" src="assets/thumbnail.png"/>
 </p>
 # !CAUTION! This README.md is currently being edited! 
 # Hi There 👋
