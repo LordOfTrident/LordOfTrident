@@ -2,6 +2,7 @@
 	<img width="100%" src="assets/deco.png"/>
 </p>-->
 
+# !CAUTION! This README.md is currently being edited! 
 # Hi There 👋
 Hi, im LordOfTrident
 - I mainly program in C and C++
