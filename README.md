@@ -11,10 +11,10 @@ Hi, im LordOfTrident
 ## Github Stats
 <p align="center">
   <a href="#">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=LordOfTrident&show_icons=true&theme=nord&border_radius=10&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=LordOfTrident&show_icons=true&theme=nord&border_radius=10&bg_color=202224&title_color=44a0c9&icon_color=476f8a&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="#">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=10&layout=compact&bg_color=22272e&title_color=7e7cdd&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=10&layout=compact&bg_color=202224e&title_color=44a0c9&icon_color=476f8a&text_color=c1c6cb&border_color=4d5862"/>
   </a>
 </p>
 
