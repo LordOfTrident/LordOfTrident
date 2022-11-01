@@ -11,17 +11,17 @@ Hi, im LordOfTrident
 ## Github Stats
 <p align="center">
   <a href="#">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=LordOfTrident&show_icons=true&theme=nord&border_radius=10&bg_color=202224&title_color=e07645&icon_color=be68a9&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=LordOfTrident&show_icons=true&theme=nord&border_radius=10&bg_color=202224&title_color=be68a9&icon_color=9c68be&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="#">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=10&layout=compact&bg_color=202224&title_color=e07645&icon_color=be68a9&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=10&layout=compact&bg_color=202224&title_color=be68a9&icon_color=9c68be&text_color=c1c6cb&border_color=4d5862"/>
   </a>
 </p>
 
 ## Extra Pins
 <p align="center">
   <a href="https://github.com/Temple-VM/temple">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Temple-VM&theme=nord&border_radius=1&show_owner=true&repo=temple&bg_color=202224&title_color=e07645&icon_color=be68a9&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Temple-VM&theme=nord&border_radius=1&show_owner=true&repo=temple&bg_color=202224&title_color=be68a9&icon_color=9c68be&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/pona">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=pona&bg_color=22272e&title_color=e07645&icon_color=e386bf&text_color=d9dce9&border_color=3c3f52"/>
