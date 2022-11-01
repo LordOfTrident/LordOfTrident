@@ -21,10 +21,10 @@ Hi, im LordOfTrident
 ## Extra Pins
 <p align="center">
   <a href="https://github.com/Temple-VM/temple">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Temple-VM&theme=nord&border_radius=1&show_owner=true&repo=temple&bg_color=202224&title_color=9c68be&icon_color=476f8a&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Temple-VM&theme=nord&border_radius=1&show_owner=true&repo=temple&bg_color=202224&title_color=e07645&icon_color=476f8a&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/pona">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=pona&bg_color=202224&title_color=9c68be&icon_color=476f8a&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=pona&bg_color=202224&title_color=e07645&icon_color=476f8a&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/asteroid-destroyer">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=asteroid-destroyer&bg_color=202224&title_color=be68a9&icon_color=9c68be&text_color=c1c6cb&border_color=4d5862"/>
