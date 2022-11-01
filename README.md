@@ -12,7 +12,7 @@ Hi, im LordOfTrident
 ## Github Stats
 <p align="center">
   <a href="#">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=LordOfTrident&show_icons=true&theme=nord&border_radius=10&bg_color=25282b&title_color=c67099&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=LordOfTrident&show_icons=true&theme=nord&border_radius=10&bg_color=25282b&title_color=c67099&icon_color=4d5862&text_color=d47064&border_color=4d5862"/>
   </a>
   <a href="#">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=10&layout=compact&bg_color=25282b&title_color=c67099&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
