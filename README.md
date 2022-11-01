@@ -28,21 +28,21 @@ Hi, im LordOfTrident
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=pona&bg_color=25282b&title_color=44a0c9&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/asteroid-destroyer">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=asteroid-destroyer&bg_color=25282b&title_color=c86d8b&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=asteroid-destroyer&bg_color=25282b&title_color=44a0c9&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/lysfetch">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=lysfetch&bg_color=25282b&title_color=c86d8b&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=lysfetch&bg_color=25282b&title_color=44a0c9&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/pas-wpm">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=pas-wpm&bg_color=25282b&title_color=c86d8b&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=pas-wpm&bg_color=25282b&title_color=44a0c9&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/your-factory">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=your-factory&bg_color=25282b&title_color=c86d8b&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=your-factory&bg_color=25282b&title_color=44a0c9&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/amaretto">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=amaretto&bg_color=25282b&title_color=c86d8b&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=amaretto&bg_color=25282b&title_color=44a0c9&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
   </a>
   <a href="https://github.com/LordOfTrident/tic-tac-go">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=tic-tac-go&bg_color=25282b&title_color=c86d8b&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LordOfTrident&theme=nord&border_radius=1&show_owner=true&repo=tic-tac-go&bg_color=25282b&title_color=44a0c9&icon_color=4d5862&text_color=c1c6cb&border_color=4d5862"/>
   </a>
 </p>
