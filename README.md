@@ -17,7 +17,7 @@ Currently working on
 - A stack based virtual machine in C
 
 Languages i use
-<br>
+<br><br>
 <a href="https://go.dev/">
   <img style="padding-right: 20px" height="20px" align="center" src="assets/go.png"/>
 </a>
