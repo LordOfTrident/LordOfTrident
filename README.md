@@ -19,19 +19,19 @@ Currently working on
 Languages i use
 <br>
 <a href="https://go.dev/">
-  <img height="20px" align="center" src="assets/go.png"/>
-</a><p></p>
+  <img style="padding-left: 10px" height="20px" align="center" src="assets/go.png"/>
+</a>
 <a href="https://www.freepascal.org/">
-  <img height="35px" align="center" src="assets/pascal.png"/>
-</a><p></p>
+  <img style="padding-left: 10px" height="35px" align="center" src="assets/pascal.png"/>
+</a>
 <a href="https://www.lua.org/">
-  <img height="35px" align="center" src="assets/lua.png"/>
-</a><p></p>
+  <img style="padding-left: 10px" height="35px" align="center" src="assets/lua.png"/>
+</a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img height="35px" align="center" src="assets/c.png"/>
-</a><p></p>
+  <img style="padding-left: 10px" height="35px" align="center" src="assets/c.png"/>
+</a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-  <img height="35px" align="center" src="assets/cpp.png"/>
+  <img style="padding-left: 10px" height="35px" align="center" src="assets/cpp.png"/>
 </a>
 
 ## Github Stats
