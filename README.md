@@ -20,16 +20,16 @@ Languages i use
 <br>
 <a href="https://go.dev/">
   <img height="20px" align="center" src="assets/go.png"/>
-</a>
+</a><p></p>
 <a href="https://www.freepascal.org/">
   <img height="35px" align="center" src="assets/pascal.png"/>
-</a>
+</a><p></p>
 <a href="https://www.lua.org/">
   <img height="35px" align="center" src="assets/lua.png"/>
-</a>
+</a><p></p>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img height="35px" align="center" src="assets/c.png"/>
-</a>
+</a><p></p>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
   <img height="35px" align="center" src="assets/cpp.png"/>
 </a>
