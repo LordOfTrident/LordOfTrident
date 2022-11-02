@@ -6,34 +6,32 @@
 	<img width="100%" src="assets/thumbnail.png"/>
 </p>
 
-# !CAUTION! README.md being edited
-
-I am LordOfTrident
-- I mainly program in C and C++
+Hi, i am LordOfTrident
+- I enjoy programming as a hobby
+- Main OS is Ubuntu
 - Currently learning Go and planning to learn Rust
-- I also know Lua, Pascal and a little bit of Javascript
+- I also know a little bit of Javascript
 
 Currently working on
 - [A C++/SDL2 isometric city building game](https://github.com/LordOfTrident/city-builder)
 - A stack based virtual machine in C
 
-<p align="center">
-  <a href="https://go.dev/">
-    <img height="20px" align="center" src="assets/go.png"/>
-  </a>
-  <a href="https://www.freepascal.org/">
-    <img height="35px" align="center" src="assets/pascal.png"/>
-  </a>
-  <a href="https://www.lua.org/">
-    <img height="35px" align="center" src="assets/lua.png"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img height="35px" align="center" src="assets/c.png"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img height="35px" align="center" src="assets/cpp.png"/>
-  </a>
-</p>
+Languages i use
+<a href="https://go.dev/">
+  <img height="20px" align="center" src="assets/go.png"/>
+</a>
+<a href="https://www.freepascal.org/">
+  <img height="35px" align="center" src="assets/pascal.png"/>
+</a>
+<a href="https://www.lua.org/">
+  <img height="35px" align="center" src="assets/lua.png"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img height="35px" align="center" src="assets/c.png"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img height="35px" align="center" src="assets/cpp.png"/>
+</a>
 
 ## Github Stats
 <p align="center">
