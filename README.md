@@ -14,7 +14,7 @@ Hi, i am LordOfTrident
 
 Currently working on
 - [A C++/SDL2 isometric city building game](https://github.com/LordOfTrident/city-builder)
-- A stack based virtual machine in C
+- [A stack based virtual machine in C](https://github.com/LordOfTrident/avm)
 
 Languages i use
 <br><br>
