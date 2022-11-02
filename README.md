@@ -19,13 +19,13 @@ Currently working on
 
 <p align="center">
   <a href="https://go.dev/">
-    <img width="10%" align="center" src="assets/go.png"/>
+    <img height="15px" align="center" src="assets/go.png"/>
   </a>
   <a href="https://www.freepascal.org/">
-    <img width="10%" align="center" src="assets/pascal.png"/>
+    <img height="15px" align="center" src="assets/pascal.png"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img width="10%" align="center" src="assets/c.png"/>
+    <img height="15px" align="center" src="assets/c.png"/>
   </a>
 </p>
 
