@@ -24,8 +24,14 @@ Currently working on
   <a href="https://www.freepascal.org/">
     <img height="35px" align="center" src="assets/pascal.png"/>
   </a>
+  <a href="https://www.lua.org/">
+    <img height="35px" align="center" src="assets/lua.png"/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img height="35px" align="center" src="assets/c.png"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img height="35px" align="center" src="assets/cpp.png"/>
   </a>
 </p>
 
