@@ -6,6 +6,8 @@
 	<img width="100%" src="assets/thumbnail.png"/>
 </p>
 
+# !CAUTION! README.md being edited
+
 I am LordOfTrident
 - I mainly program in C and C++
 - Currently learning Go and planning to learn Rust
@@ -14,6 +16,18 @@ I am LordOfTrident
 Currently working on
 - [A C++/SDL2 isometric city building game](https://github.com/LordOfTrident/city-builder)
 - A stack based virtual machine in C
+
+<p align="center">
+  <a href="https://go.dev/">
+    <img width="10%" align="center" src="assets/go.png"/>
+  </a>
+  <a href="https://www.freepascal.org/">
+    <img width="10%" align="center" src="assets/pascal.png"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img width="10%" align="center" src="assets/c.png"/>
+  </a>
+</p>
 
 ## Github Stats
 <p align="center">
