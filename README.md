@@ -19,7 +19,7 @@ Currently working on
 
 <p align="center">
   <a href="https://go.dev/">
-    <img height="30px" align="center" src="assets/go.png"/>
+    <img height="20px" align="center" src="assets/go.png"/>
   </a>
   <a href="https://www.freepascal.org/">
     <img height="35px" align="center" src="assets/pascal.png"/>
