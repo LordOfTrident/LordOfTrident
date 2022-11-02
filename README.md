@@ -12,7 +12,7 @@ I am LordOfTrident
 - I also know Lua, Pascal and a little bit of Javascript
 
 Currently working on
-- A C++/SDL2 isometric city building game
+- [A C++/SDL2 isometric city building game](https://github.com/LordOfTrident/city-builder)
 - A stack based virtual machine in C
 
 ## Github Stats
