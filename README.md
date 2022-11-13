@@ -13,8 +13,9 @@ Hi, i am LordOfTrident
 - I also know a little bit of Javascript
 
 Currently working on
-- [A C++/SDL2 isometric city building game](https://github.com/LordOfTrident/city-builder)
+- [A shell for Unix/Linux systems written in Go](https://github.com/LordOfTrident/snash)
 - [A stack based virtual machine in C](https://github.com/LordOfTrident/avm)
+- [A C++/SDL2 isometric city building game](https://github.com/LordOfTrident/city-builder)
 
 Languages i use
 <br><br>
