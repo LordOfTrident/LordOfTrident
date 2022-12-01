@@ -4,7 +4,7 @@
 </p>-->
 
 <p align="center">
-	<img width="100%" src="es/thumbnail-xmas.png"/>
+	<img width="100%" src="res/thumbnail-xmas.png"/>
 </p>
 
 Hi, i am LordOfTrident
@@ -21,19 +21,19 @@ Currently working on
 Languages i use
 <br><br>
 <a href="https://go.dev/">
-	<img style="padding-right: 20px" height="20px" align="center" src="es/go.png"/>
+	<img style="padding-right: 20px" height="20px" align="center" src="res/go.png"/>
 </a>
 <a href="https://www.freepascal.org/">
-	<img style="padding-right: 20px" height="35px" align="center" src="es/pascal.png"/>
+	<img style="padding-right: 20px" height="35px" align="center" src="res/pascal.png"/>
 </a>
 <a href="https://www.lua.org/">
-	<img style="padding-right: 20px" height="35px" align="center" src="es/lua.png"/>
+	<img style="padding-right: 20px" height="35px" align="center" src="res/lua.png"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-	<img style="padding-right: 20px" height="35px" align="center" src="es/c.png"/>
+	<img style="padding-right: 20px" height="35px" align="center" src="res/c.png"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-	<img style="padding-right: 20px" height="35px" align="center" src="es/cpp.png"/>
+	<img style="padding-right: 20px" height="35px" align="center" src="res/cpp.png"/>
 </a>
 
 ## Github Stats
