@@ -4,7 +4,7 @@
 </p>-->
 
 <p align="center">
-	<img width="100%" src="res/thumbnail-xmas.png"/>
+	<img width="100%" src="res/thumbnail.png"/>
 </p>
 
 Hi, i am LordOfTrident
