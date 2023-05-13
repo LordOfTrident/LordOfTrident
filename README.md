@@ -1,22 +1,23 @@
 <p align="center">
 	<img width="100%" src="res/banner.png"/>
 	<a href="https://LordOfTrident.github.io">
-		<img width="50%" src="https://img.shields.io/badge/Click here to go to my website-3273f2?style=for-the-badge&logo=&logoColor=white">
+		<img width="50%" src="https://img.shields.io/badge/Click here to go to my website-5947e5?style=for-the-badge&logo=&logoColor=white">
 	</a>
 </p>
 
 ## Hi, i am LordOfTrident
 - I enjoy programming as a hobby
 - Main OS is Ubuntu
+- Favorite language is probably C
 - Currently learning Go and planning to learn Rust
 
 ## Github Stats
 <p align="center">
 	<a style="text-decoration: none" class="card" href="#" target="_blank">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=212328&title_color=efefef&icon_color=e840b5&text_color=cfcfcf&border_color=33364000"/>
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=212328&title_color=efefef&icon_color=d24da5&text_color=cfcfcf&border_color=33364000"/>
 	</a>
 	<a style="text-decoration: none" class="card" href="#" target="_blank">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=212328&title_color=efefef&icon_color=e840b5&text_color=cfcfcf&border_color=33364000"/>
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=212328&title_color=efefef&icon_color=d24da5&text_color=cfcfcf&border_color=33364000"/>
 	</a>
 </p>
 
