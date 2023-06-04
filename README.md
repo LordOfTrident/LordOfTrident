@@ -5,7 +5,7 @@
 	</a>
 </p>
 
-## Hi, i am LordOfTrident
+## Hi, im rei
 - I enjoy programming as a hobby
 - Main OS is Ubuntu
 - Favorite language is probably C
