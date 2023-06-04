@@ -1,7 +1,7 @@
 <p align="center">
 	<img width="100%" src="res/banner.png"/>
 	<a href="https://LordOfTrident.github.io">
-		<img width="50%" src="https://img.shields.io/badge/🌸 Click here to go to my website 🌼-ff83ac?style=for-the-badge&logo=&logoColor=white">
+		<img width="50%" src="https://img.shields.io/badge/Click here to go to my website-ff83ac?style=for-the-badge&logo=&logoColor=white">
 	</a>
 </p>
 
