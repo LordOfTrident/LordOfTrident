@@ -14,10 +14,10 @@
 ## Github Stats
 <p align="center">
 	<a style="text-decoration: none" class="card" href="#" target="_blank">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=12151f&title_color=7fcdf9&icon_color=3780e8&text_color=ffffff&border_color=33364000"/>
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000"/>
 	</a>
 	<a style="text-decoration: none" class="card" href="#" target="_blank">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=7fcdf9&icon_color=3780e8&text_color=ffffff&border_color=33364000"/>
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000"/>
 	</a>
 </p>
 
