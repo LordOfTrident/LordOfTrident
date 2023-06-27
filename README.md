@@ -1,7 +1,7 @@
 <p align="center">
 	<img width="100%" src="res/banner.png"/>
 	<a href="https://LordOfTrident.github.io">
-		<img width="50%" src="https://img.shields.io/badge/Click here to go to my website-ff83ac?style=for-the-badge&logo=&logoColor=white">
+		<img width="50%" src="https://img.shields.io/badge/Click here to go to my website-3780e8?style=for-the-badge&logo=&logoColor=white">
 	</a>
 </p>
 
@@ -14,10 +14,10 @@
 ## Github Stats
 <p align="center">
 	<a style="text-decoration: none" class="card" href="#" target="_blank">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=15111d&title_color=c7d5fa&icon_color=fb81ad&text_color=cfcfcf&border_color=33364000"/>
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=12151f&title_color=7fcdf9&icon_color=3780e8&text_color=ffffff&border_color=33364000"/>
 	</a>
 	<a style="text-decoration: none" class="card" href="#" target="_blank">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=15111d&title_color=c7d5fa&icon_color=fb81ad&text_color=cfcfcf&border_color=33364000"/>
+		<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=7fcdf9&icon_color=3780e8&text_color=ffffff&border_color=33364000"/>
 	</a>
 </p>
 
