@@ -7,7 +7,7 @@
 
 ## 👋 Hi, im rei AKA LordOfTrident
 - 😄 I enjoy programming as a hobby
-- ⚡ Main OS is Ubuntu
+- 💻 Main OS is Ubuntu
 - ⭐ Favorite language is probably C
 - 📖 Currently learning Go and planning to learn Rust
 
