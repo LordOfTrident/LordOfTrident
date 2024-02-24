@@ -41,6 +41,12 @@
 	<a style="text-decoration: none" href="https://www.lua.org/" target="_blank">
 		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 	</a>
+	<a style="text-decoration: none" href="https://nim-lang.org/" target="_blank">
+		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg">
+	</a>
+	<a style="text-decoration: none" href="https://elixir-lang.org/" target="_blank">
+		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+	</a>
 	<a style="text-decoration: none" href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
 		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	</a>
