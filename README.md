@@ -9,7 +9,7 @@
 - 😄 I enjoy programming as a hobby
 - 💻 Main OS is Ubuntu
 - ⭐ Favorite language is probably C
-- 📖 Currently learning Go and planning to learn Rust
+- 📖 Currently learning Go, Nim, Elixir and planning to learn Rust
 
 ## Github Stats
 <p align="center">
