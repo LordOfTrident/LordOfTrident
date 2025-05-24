@@ -16,7 +16,7 @@ hiii, im **rei** (*AKA LordOfTrident*)
 [Youtube](https://www.youtube.com/@lordoftrident) |
 [git.gay](https://git.gay/rei) |
 [Twitter](https://x.com/LordOfCrwn0) |
-[Devian Art](https://www.deviantart.com/lordoftrident) |
+[Deviant Art](https://www.deviantart.com/lordoftrident) |
 [rei@mesyeti.uk](mailto:rei@mesyeti.uk)
 
 <a href="https://micro-editor.github.io/"><img src="./res/micro.png" alt="Written with Micro text editor"></a>
