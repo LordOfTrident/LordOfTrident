@@ -4,7 +4,7 @@
 <a href="#"><img src="https://img.shields.io/badge/gay_socialism-now-black?labelColor=000102&color=bb3278&style=flat-square" alt="fuck capitalism"></a>
 <a href="#"><img src="https://img.shields.io/badge/fuck-vibecoders-black?labelColor=000102&color=c03988&style=flat-square" alt="fuck vibecoders"></a>
 <a href="#"><img src="https://img.shields.io/badge/fuck-AI_slop-black?labelColor=000102&color=b84491&style=flat-square" alt="fuck AI slop"></a>
-<br><br>
+<br>
 
 hiii, im **rei** (*AKA LordOfTrident*)
 - i enjoy programming, music, and art
