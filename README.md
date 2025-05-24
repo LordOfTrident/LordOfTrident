@@ -26,9 +26,5 @@ hiii, im **rei** (*AKA LordOfTrident*)
 <a href="#"><img src="./res/linux.png" alt="Penguin computing"></a>
 <a href="#"><img src="./res/rainbow.png" alt="Rainbow"></a>
 
-<a style="text-decoration: none" class="card" href="#" target="_blank">
-	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=000102&title_color=d457a4&icon_color=ca3c75&text_color=ffffff&border_color=000102"/>
-</a>
-<a style="text-decoration: none" class="card" href="#" target="_blank">
-	<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=000102&title_color=d457a4&icon_color=ca3c75&text_color=ffffff&border_color=000102"/>
-</a>
+<a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=000102&title_color=d457a4&icon_color=ca3c75&text_color=ffffff&border_color=000102"/></a>
+<a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=000102&title_color=d457a4&icon_color=ca3c75&text_color=ffffff&border_color=000102"/></a>
