@@ -1,56 +1,34 @@
-<p align="center">
-	<img width="100%" src="res/banner.png"/>
-	<a href="https://LordOfTrident.github.io">
-		<img width="50%" src="https://img.shields.io/badge/Click here to go to my website-002478?style=for-the-badge&logo=&logoColor=white">
-	</a>
-</p>
-
-## 👋 Hi, I'm Rei AKA LordOfTrident
-- 😄 I enjoy programming as a hobby
-- 💻 Main OS is Arch (formerly Ubuntu)
-- ⭐ Favorite language is probably C
-- 📖 Currently learning Go, Nim, Elixir and planning to learn Rust
-
-## Github Stats
-<p align="center">
-	<a style="text-decoration: none" class="card" href="#" target="_blank">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000"/>
-	</a>
-	<a style="text-decoration: none" class="card" href="#" target="_blank">
-		<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000"/>
-	</a>
-</p>
-
+<img width="400" alt="banner" src="./res/banner.png"/>
 <br>
-<p align="center">
-	<a style="text-decoration: none" href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-	</a>
-	<a style="text-decoration: none" href="https://micro-editor.github.io/" target="_blank">
-		<img width="40px" src="https://micro-editor.github.io/micro_files/micro-logo-mark.svg">
-	</a>
-	<a style="text-decoration: none" href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-	</a>
-	<a style="text-decoration: none" href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-	</a>
-	<a style="text-decoration: none" href="https://go.dev/" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-	</a>
-	<a style="text-decoration: none" href="https://www.lua.org/" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-	</a>
-	<a style="text-decoration: none" href="https://nim-lang.org/" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg">
-	</a>
-	<a style="text-decoration: none" href="https://elixir-lang.org/" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-	</a>
-	<a style="text-decoration: none" href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	</a>
-	<a style="text-decoration: none" href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-		<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	</a>
-</p>
+<img src="https://img.shields.io/badge/FOSS-now-black?labelColor=000102&color=ad2e61&style=flat-square" alt="fuck bigots">
+<img src="https://img.shields.io/badge/gay_socialism-now-black?labelColor=000102&color=bb3278&style=flat-square" alt="fuck capitalism">
+<img src="https://img.shields.io/badge/fuck-vibecoders-black?labelColor=000102&color=c03988&style=flat-square" alt="fuck vibecoders">
+<img src="https://img.shields.io/badge/fuck-AI_slop-black?labelColor=000102&color=b84491&style=flat-square" alt="fuck AI slop">
+<br><br>
+
+hiii, im **rei** (*AKA LordOfTrident*)
+- i enjoy programming, music, and art
+- my favorite programming language is probably [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- my first programming language was [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+- main OS is [Arch Linux](https://archlinux.org/) (i use arch btw) with [hyprland](https://hyprland.org/) (formerly [Ubuntu](https://ubuntu.com/) 20.04 with [i3wm](https://i3wm.org/))
+
+[Website](https://lordoftrident.github.io/) |
+[Youtube](https://www.youtube.com/@lordoftrident) |
+[Github](https://github.com/LordOfTrident) |
+[Twitter](https://x.com/LordOfCrwn0) |
+[Devian Art](https://www.deviantart.com/lordoftrident) |
+[rei@mesyeti.uk](mailto:rei@mesyeti.uk)
+
+<a href="https://micro-editor.github.io/"><img src="./res/micro.png" alt="Written with Micro text editor"></a>
+<a href="https://www.gimp.org/"><img src="./res/gimp.png" alt="Graphics made in Gimp"></a>
+<a href="https://github.com/lordoftrident/tinview"><img src="./res/tinview.png" alt="Get tinview"></a>
+<a href="https://trinity-engine.github.io"><img src="./res/trinity.gif" alt="Get Trinity"></a>
+<a href="#"><img src="./res/linux.png" alt="Penguin computing"></a>
+<a href="#"><img src="./res/rainbow.png" alt="Rainbow"></a>
+
+<a style="text-decoration: none" class="card" href="#" target="_blank">
+	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfTrident&theme=nord&border_radius=0&layout=compact&bg_color=000102&title_color=d457a4&icon_color=ca3c75&text_color=ffffff&border_color=000102"/>
+</a>
+<a style="text-decoration: none" class="card" href="#" target="_blank">
+	<img width="45%" src="https://github-readme-stats.vercel.app/api/?username=LordOfTrident&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=000102&title_color=d457a4&icon_color=ca3c75&text_color=ffffff&border_color=000102"/>
+</a>
