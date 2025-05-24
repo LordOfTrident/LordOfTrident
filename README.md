@@ -1,4 +1,5 @@
-<img width="400" alt="banner" src="./res/banner.png"/>
+<a href="#"><img width="400" alt="banner" src="./res/banner.png"/></a>
+<br>
 <a href="#"><img src="https://img.shields.io/badge/FOSS-now-black?labelColor=000102&color=ad2e61&style=flat-square" alt="fuck bigots"></a>
 <a href="#"><img src="https://img.shields.io/badge/gay_socialism-now-black?labelColor=000102&color=bb3278&style=flat-square" alt="fuck capitalism"></a>
 <a href="#"><img src="https://img.shields.io/badge/fuck-vibecoders-black?labelColor=000102&color=c03988&style=flat-square" alt="fuck vibecoders"></a>
