@@ -16,7 +16,7 @@ hiii, im **rei** (*AKA LordOfTrident*)
 - my first programming language was [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))
 - main OS is [Arch Linux](https://archlinux.org/) (i use arch btw) with [hyprland](https://hyprland.org/) (formerly [Ubuntu](https://ubuntu.com/) 20.04 with [i3wm](https://i3wm.org/))
 
-[Website](https://lordoftrident.github.io/) |
+[Website](https://rei.nya.pub) |
 [Youtube](https://www.youtube.com/@lordoftrident) |
 [git.gay](https://git.gay/rei) |
 [Codeberg](https://codeberg.org/lordoftrident) |
