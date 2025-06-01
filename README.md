@@ -6,6 +6,10 @@
 <a href="#"><img src="https://img.shields.io/badge/fuck-AI_slop-black?labelColor=000102&color=b84491&style=flat-square" alt="fuck AI slop"></a>
 <br>
 
+> [!NOTE]
+> I'm moving away from Github to [git.gay](https://git.gay/rei) and [Codeberg](https://codeberg.org/lordoftrident),
+> because Github is corporate AI slop.
+
 hiii, im **rei** (*AKA LordOfTrident*)
 - i enjoy programming, music, and art
 - my favorite programming language is probably [C](https://en.wikipedia.org/wiki/C_(programming_language))
