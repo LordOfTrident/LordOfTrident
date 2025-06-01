@@ -8,7 +8,7 @@
 
 > [!NOTE]
 > I'm moving away from Github to [git.gay](https://git.gay/rei) and [Codeberg](https://codeberg.org/lordoftrident),
-> because Github is corporate AI slop.
+> because Github is corporate AI slop. All my new projects will be there, but my old ones will remain here on Github.
 
 hiii, im **rei** (*AKA LordOfTrident*)
 - i enjoy programming, music, and art
