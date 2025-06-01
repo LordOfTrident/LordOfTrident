@@ -15,6 +15,7 @@ hiii, im **rei** (*AKA LordOfTrident*)
 [Website](https://lordoftrident.github.io/) |
 [Youtube](https://www.youtube.com/@lordoftrident) |
 [git.gay](https://git.gay/rei) |
+[Codeberg](https://codeberg.org/lordoftrident) |
 [Twitter](https://x.com/LordOfCrwn0) |
 [Deviant Art](https://www.deviantart.com/lordoftrident) |
 [rei@mesyeti.uk](mailto:rei@mesyeti.uk)
