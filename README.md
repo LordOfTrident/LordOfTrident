@@ -26,7 +26,7 @@ hiii, im **rei** (*AKA LordOfTrident*)
 
 <a href="https://micro-editor.github.io/"><img src="./res/micro.png" alt="Written with Micro text editor"></a>
 <a href="https://www.gimp.org/"><img src="./res/gimp.png" alt="Graphics made in Gimp"></a>
-<a href="https://github.com/lordoftrident/tinview"><img src="./res/tinview.png" alt="Get tinview"></a>
+<a href="https://git.gay/rei/tinview"><img src="./res/tinview.png" alt="Get tinview"></a>
 <a href="https://trinity-engine.github.io"><img src="./res/trinity.gif" alt="Get Trinity"></a>
 <a href="#"><img src="./res/linux.png" alt="Penguin computing"></a>
 <a href="#"><img src="./res/rainbow.png" alt="Rainbow"></a>
