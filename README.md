@@ -8,7 +8,8 @@
 
 > [!NOTE]
 > I'm moving away from Github to [Codeberg](https://codeberg.org/lordoftrident), because Github is
-> closed-source corporate AI slop. All my new projects will be on Codeberg, but my old ones will remain here on Github.
+> [closed-source corporate AI slop](https://sfconservancy.org/GiveUpGitHub/). All my new projects
+> will be on Codeberg, but my old ones will remain here on Github.
 
 hiii, im **rei** (*AKA LordOfTrident*)
 - i enjoy programming, music, and art
