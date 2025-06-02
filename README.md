@@ -1,14 +1,14 @@
 <a href="#"><img width="400" alt="banner" src="./res/banner.png"/></a>
 <br>
-<a href="#"><img src="https://img.shields.io/badge/FOSS-now-black?labelColor=000102&color=ad2e61&style=flat-square" alt="fuck bigots"></a>
-<a href="#"><img src="https://img.shields.io/badge/gay_socialism-now-black?labelColor=000102&color=bb3278&style=flat-square" alt="fuck capitalism"></a>
+<a href="#"><img src="https://img.shields.io/badge/FOSS-now-black?labelColor=000102&color=ad2e61&style=flat-square" alt="FOSS now"></a>
+<a href="#"><img src="https://img.shields.io/badge/gay_socialism-now-black?labelColor=000102&color=bb3278&style=flat-square" alt="gay socialism now"></a>
 <a href="#"><img src="https://img.shields.io/badge/fuck-vibecoders-black?labelColor=000102&color=c03988&style=flat-square" alt="fuck vibecoders"></a>
 <a href="#"><img src="https://img.shields.io/badge/fuck-AI_slop-black?labelColor=000102&color=b84491&style=flat-square" alt="fuck AI slop"></a>
 <br>
 
 > [!NOTE]
-> I'm moving away from Github to [git.gay](https://git.gay/rei) and [Codeberg](https://codeberg.org/lordoftrident),
-> because Github is corporate AI slop. All my new projects will be there, but my old ones will remain here on Github.
+> I'm moving away from Github to [Codeberg](https://codeberg.org/lordoftrident), because Github is
+> closed-source corporate AI slop. All my new projects will be on Codeberg, but my old ones will remain here on Github.
 
 hiii, im **rei** (*AKA LordOfTrident*)
 - i enjoy programming, music, and art
@@ -18,15 +18,15 @@ hiii, im **rei** (*AKA LordOfTrident*)
 
 [Website](https://rei.nya.pub) |
 [Youtube](https://www.youtube.com/@lordoftrident) |
-[git.gay](https://git.gay/rei) |
 [Codeberg](https://codeberg.org/lordoftrident) |
+[git.gay](https://git.gay/rei) |
 [Twitter](https://x.com/LordOfCrwn0) |
 [Deviant Art](https://www.deviantart.com/lordoftrident) |
 [rei@mesyeti.uk](mailto:rei@mesyeti.uk)
 
 <a href="https://micro-editor.github.io/"><img src="./res/micro.png" alt="Written with Micro text editor"></a>
 <a href="https://www.gimp.org/"><img src="./res/gimp.png" alt="Graphics made in Gimp"></a>
-<a href="https://git.gay/rei/tinview"><img src="./res/tinview.png" alt="Get tinview"></a>
+<a href="https://codeberg.org/lordoftrident/tinview"><img src="./res/tinview.png" alt="Get tinview"></a>
 <a href="https://trinity-engine.codeberg.page"><img src="./res/trinity.gif" alt="Get Trinity"></a>
 <a href="#"><img src="./res/linux.png" alt="Penguin computing"></a>
 <a href="#"><img src="./res/rainbow.png" alt="Rainbow"></a>
