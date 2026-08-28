@@ -2,8 +2,8 @@
 <br>
 <a href="#"><img src="https://img.shields.io/badge/FOSS-now-black?labelColor=000102&color=ad2e61&style=flat-square" alt="FOSS now"></a>
 <a href="#"><img src="https://img.shields.io/badge/gay_socialism-now-black?labelColor=000102&color=bb3278&style=flat-square" alt="gay socialism now"></a>
-<a href="#"><img src="https://img.shields.io/badge/fuck-vibecoders-black?labelColor=000102&color=c03988&style=flat-square" alt="no vibecoders"></a>
-<a href="#"><img src="https://img.shields.io/badge/fuck-AI_slop-black?labelColor=000102&color=b84491&style=flat-square" alt="no AI slop"></a>
+<a href="#"><img src="https://img.shields.io/badge/no-vibecoders-black?labelColor=000102&color=c03988&style=flat-square" alt="no vibecoders"></a>
+<a href="#"><img src="https://img.shields.io/badge/no-AI_slop-black?labelColor=000102&color=b84491&style=flat-square" alt="no AI slop"></a>
 <br>
 
 > [!NOTE]
